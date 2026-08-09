@@ -1,11 +1,12 @@
+joblib
+av
+
 streamlit
-tensorflow
+tensorflow==2.21.0
 mediapipe
 opencv-python-headless
 numpy
 pandas
 scikit-learn
-joblib
-pillow
+Pillow
 streamlit-webrtc
-av
